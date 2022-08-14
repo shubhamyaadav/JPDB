@@ -15,6 +15,6 @@ Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, th
 
 ## Screenshots
 
-![JPDB](https://user-images.githubusercontent.com/77821227/184530097-3ff20e87-d00b-4d48-b209-52c321ef6a5a.png)
+![image](https://user-images.githubusercontent.com/77821227/184530191-877ab8c5-333c-4e00-bb4e-5fcab7f51d88.png)
 ![image](https://user-images.githubusercontent.com/77821227/184530153-ba24bc48-83f8-46bb-bd97-d76ef387ddf9.png)
 ![image](https://user-images.githubusercontent.com/77821227/184530160-a176ae70-b7de-4ec0-9ffa-26919c7bfec1.png)
